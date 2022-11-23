@@ -117,7 +117,96 @@ SECCIÓN 5–6 Ley del voltaje de Kirchhoff
 
 ![image](https://user-images.githubusercontent.com/117738904/203583242-17342438-d0e7-45e9-a65f-7ccc60636fdd.png)
 
+41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica
 
+
+![image](https://user-images.githubusercontent.com/117738904/203584557-929cf105-8900-4788-8f60-c1c3c7cb4ab6.png)
+
+43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
+
+![image](https://user-images.githubusercontent.com/117738904/203584654-baeea422-9258-4b3e-b2a8-cf5cf03fe255.png)
+
+45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del 1% con una fuente de 1 a 120 V. El voltaje máximo debe ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
+
+![image](https://user-images.githubusercontent.com/117738904/203584771-ebeff56e-9911-4235-9617-84e56325f682.png)
+
+SECCIÓN 5–8 Potencia en circuitos en serie
+
+47. ¿Cuál es la potencia total en el circuito de la figura 5-88? I=7A 
+
+
+![image](https://user-images.githubusercontent.com/117738904/203584936-ab598f4d-dee2-408d-8f35-1482f6418dd7.png)
+
+49. Encuentre RT en la figura 5-89.
+
+![image](https://user-images.githubusercontent.com/117738904/203585020-d1e4f128-e617-4c82-8ff3-f63033deb260.png)
+
+SECCIÓN 5–9 Mediciones de voltaje 
+
+51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
+
+![image](https://user-images.githubusercontent.com/117738904/203585199-5f8f81b0-2053-48e4-a7df-befdb894b4d0.png)
+
+53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
+
+![image](https://user-images.githubusercontent.com/117738904/203585275-fbbf4ff1-331c-42f5-beb2-b6952312d190.png)
+
+SECCIÓN 5–10 Localización de fallas
+
+55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron
+
+![image](https://user-images.githubusercontent.com/117738904/203585426-ab850b00-c712-408b-a442-fe5f4be52026.png)
+
+57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
+
+![image](https://user-images.githubusercontent.com/117738904/203585496-f69441d4-e00c-497b-843d-bc9b2bedacb0.png)
+
+59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 k Ω entre las puntas 1 y 2. Asimismo, 13.6 k Ω entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo
+
+![image](https://user-images.githubusercontent.com/117738904/203585687-f2329555-6bed-40f3-8417-e4fa3a1c05e8.png)
+
+CAPÍTULO  6
+
+SECCIÓN 6–1 Resistores en paralelo 
+
+1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería
+
+
+![image](https://user-images.githubusercontent.com/117738904/203585809-09d11ac5-5180-408e-8d59-834ee90b90e3.png)
+
+3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66
+
+![image](https://user-images.githubusercontent.com/117738904/203586148-46d9a4b5-1785-443a-ad26-060d3e5f7a05.png)
+
+SECCIÓN 6–2 Voltaje en un circuito en paralelo
+
+5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
+
+
+
+![image](https://user-images.githubusercontent.com/117738904/203586217-8841e17d-a4d6-45f1-9e17-dd50b6e392f5.png)
+
+7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/117738904/203586268-ea1b23ce-d432-4fd5-9030-822c894989bf.png)
+
+SECCIÓN 6–3 Ley de las corrientes de Kirchhoff 
+
+9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA, 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+
+![image](https://user-images.githubusercontent.com/117738904/203586419-6dfbba2f-6c61-454f-b099-608836863aa3.png)
+
+11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.
+
+![image](https://user-images.githubusercontent.com/117738904/203586554-e98671c4-7a9f-4848-bb62-f511b9be06e8.png)
+
+13. La resistencia total de un circuito en paralelo es de 25 Ω. ¿Cuál es la corriente a través de un resistor de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?
+
+![image](https://user-images.githubusercontent.com/117738904/203586629-2d73cca4-14e5-4f90-ad50-a21d6c2a0013.png)
+
+SECCIÓN 6–4 Resistencia total en paralelo
+
+15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
 
 
 
