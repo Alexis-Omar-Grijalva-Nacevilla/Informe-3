@@ -66,6 +66,7 @@ SECCIÓN 5–1 Resistores en serie
 ![image](https://user-images.githubusercontent.com/117738904/203581421-1d15923a-5f46-4316-a7f3-2a25b825c889.png)
 
 SECCIÓN 5–2 Corriente en un circuito en serie
+
 7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?
 
 ![image](https://user-images.githubusercontent.com/117738904/203581480-776ffb92-a43b-46e3-8aa8-f80d28372833.png)
@@ -76,7 +77,7 @@ SECCIÓN 5–2 Corriente en un circuito en serie
 
 SECCIÓN 5–3 Resistencia total en serie
 
-11. Encuentre la resistencia total de los siguientes grupos de resistores en serie: 
+
 
 ![image](https://user-images.githubusercontent.com/117738904/203581622-c516cbfb-9bdb-43f6-9e24-4888c88ccc52.png)
 
@@ -151,7 +152,10 @@ SECCIÓN 5–6 Ley del voltaje de Kirchhoff
 
 ![image](https://user-images.githubusercontent.com/117738904/203584557-929cf105-8900-4788-8f60-c1c3c7cb4ab6.png)
 
+
 43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
+
+
 
 ![image](https://user-images.githubusercontent.com/117738904/203584654-baeea422-9258-4b3e-b2a8-cf5cf03fe255.png)
 
@@ -331,7 +335,11 @@ https://youtu.be/mbFB2ZYnaN8
 
 5. CONCLUSIONES
 
+•	Entender los conceptos principales de circuitos en serie y paralelo es de suma importancia al momento de analizar circuitos,  y el comportamiento del mismo.
 
+•	Manejar todas las formulas citadas en ambos capítulos estudiados tanto de circuitos en serie y paralelo nos ayuda al momento de resolver ejercicios y encontrar la solución correcta
+
+•	Tanto la ley de voltaje de Kirchhoff como la ley de corriente  de Kirchhoff son de suma importancia en la resolución de ejercicios, al igual que la ley de ohm. Ya que el saber aplicar correctamente estos conceptos nos facilita el saber entender el funcionamiento de un circuito eléctrico
 
 6.BIBLIOGRAFÍA 
 
