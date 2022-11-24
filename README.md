@@ -10,16 +10,45 @@ FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
 
 ALEXIS GRIJALVA
 
-INFORME 2
+INFORME 3
 
 DOCENTE: ING. DARWIN OMAR ALULEMA FLORES
 
-FECHA: 17/11/2022
+FECHA: 24/11/2022
 
 1. OBJETIVOS
 
+•	Identificar un circuito resistivo en paralelo y en serie.
+
+•	Aplicar la ley del voltaje de Kirchhoff y  la ley de la corriente de Kirchhoff.
+
+•	Determinar el efecto total de fuentes de voltaje en serie y de una fuente de corriente en paralelo.
+
+•	Utilizar un circuito en serie como divisor de voltaje y utilizar  un circuito en paralelo como divisor de corriente.
+
+•	Determinar potencia en un circuito en serie y la potencia en un circuito en paralelo.
+
+•	Localizar fallas en circuitos en serie y paralelo.
+
+
 
 2. MARCO TEÓRICO
+
+CIRCUITO EN SERIE
+
+<p align="center">
+<image src= "https://user-images.githubusercontent.com/117738904/203832678-74bc43c0-1224-46c2-8ebe-c15c873201f3.png"/>
+</p>
+
+
+CIRCUITOS EN PARALELO
+
+<p align="center">
+<image src= "https://user-images.githubusercontent.com/117738904/203832845-3d6a50da-fcc6-418e-9c17-6fe7a6ef515f.png"/>
+</p>
+
+
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -298,6 +327,16 @@ SECCIÓN 6–8 Potencia en circuitos en paralelo
 
 4. VÍDEO
 
+https://youtu.be/mbFB2ZYnaN8
+
 5. CONCLUSIONES
 
+
+
 6.BIBLIOGRAFÍA 
+
+•	Electrónica. (24 de 05 de 2021). Electrónica . Recuperado el 24 de 11 de 2022, de https://electronicaonline.net/circuito-electrico/circuito-en-paralelo/
+
+•	Etecé, E. (05 de 08 de 2021). Concepto. Recuperado el 24 de 11 de 2022, de https://concepto.de/circuito-en-serie/
+
+
